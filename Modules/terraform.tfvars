@@ -1,5 +1,5 @@
 
 cidr     = "10.0.0.0/16"
-vpc_name = "test"
+vpc_name = "jenkins-test"
 
-bucket_name = "pipeline-sdmdmnrjff"
+bucket_name = "jenkinspipeline-sdlmdmnrjff"
